@@ -1,0 +1,6 @@
+*.o
+*.so
+EnclaveProtocol/Enclave_A/.config_SIM_DEBUG_x64
+EnclaveProtocol/Enclave_B/.config_SIM_DEBUG_x64
+EnclaveProtocol/Enclave_A/app
+EnclaveProtocol/Enclave_B/app
